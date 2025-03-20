@@ -30,7 +30,7 @@ An advanced tool to evaluate password strength and generate secure passwords. Bu
 
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/your-username/password-complexity-checker.git
+git clone https://github.com/NeospectraX/PRODIGY_CS_03.git
 cd password-complexity-checker
 ```
 
